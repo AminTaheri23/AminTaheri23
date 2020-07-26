@@ -2,6 +2,12 @@
 
 It's Amin!
 
+<a href="https://twitter.com/sed_amin" target="blank">
+  <img align="left" alt="Amin Taheri | Twitter" width="21px" src="https://cdn.svgporn.com/logos/twitter.svg" />
+</a>
+<br />
+<br />
+
 - 🔭 I’m currently working on Natural Language Processing (then want to shift to CV + GANs then another shift to RL)
 - 🌱 I’m currently learning Transformers (and taking DL Spec. Coursera and then I want to advance my Soft Skills as well)
 - 👯 I’m looking to collaborate on any potential ideas of my own to push the limits of knowledge.
