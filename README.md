@@ -18,8 +18,8 @@ It's Amin!
 <br />
 <br />
 
-- 🔭 I’m currently working on Natural Language Processing (then want to shift to CV + GANs then another shift to RL)
-- 🌱 I’m currently learning Transformers (and taking DL Specializaion on Coursera and then I want to advance my Soft Skills as well)
+- 🔭 I’m currently working on NLP -> CV + GANs -> RL
+- 🌱 I’m currently learning Soft Skills 
 - 👯 I’m looking to collaborate on any potential ideas of my own to push the limits of knowledge.
 - 🤔 I’m looking for help with how to get started on a academic paper.
 - 💬 Ask me about any thing you want.
