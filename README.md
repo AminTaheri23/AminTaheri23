@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="350" title="hover text">
+  <img src="https://media.giphy.com/media/9qyS7iGLcYfCg/giphy.gif" width="350" title="hover text">
 </p>
 
 It's Amin! (A as in Astronaut)
